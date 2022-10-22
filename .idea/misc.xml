@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Lorgie/AndroidStudioProjects/E-Palit-master/E-Palit-master/app/src/main/res/drawable/edittext_ui_search.xml" value="0.131" />
+        <entry key="..\:/Users/Lorgie/AndroidStudioProjects/E-Palit-master/E-Palit-master/app/src/main/res/drawable/ic_baseline_arrow_right_24.xml" value="0.131" />
+        <entry key="..\:/Users/Lorgie/AndroidStudioProjects/E-Palit-master/E-Palit-master/app/src/main/res/layout/activity_home.xml" value="0.152" />
+        <entry key="..\:/Users/Lorgie/AndroidStudioProjects/E-Palit-master/E-Palit-master/app/src/main/res/layout/activity_loading.xml" value="0.2351851851851852" />
+        <entry key="..\:/Users/Lorgie/AndroidStudioProjects/E-Palit-master/E-Palit-master/app/src/main/res/layout/activity_main.xml" value="0.1968503937007874" />
+        <entry key="..\:/Users/Lorgie/AndroidStudioProjects/E-Palit-master/E-Palit-master/app/src/main/res/layout/fragment_profile.xml" value="0.23148148148148148" />
+        <entry key="..\:/Users/Lorgie/AndroidStudioProjects/E-Palit-master/E-Palit-master/app/src/main/res/layout/fragment_profile_settings.xml" value="0.3719723183391003" />
+        <entry key="..\:/Users/Lorgie/AndroidStudioProjects/E-Palit-master/E-Palit-master/app/src/main/res/layout/fragment_search.xml" value="0.264" />
+        <entry key="..\:/Users/Lorgie/AndroidStudioProjects/E-Palit-master/E-Palit-master/app/src/main/res/layout/fragment_view_post.xml" value="0.264" />
+        <entry key="..\:/Users/Lorgie/AndroidStudioProjects/E-Palit-master/E-Palit-master/app/src/main/res/layout/fragment_view_search.xml" value="0.264" />
+        <entry key="..\:/Users/Lorgie/AndroidStudioProjects/E-Palit-master/E-Palit-master/app/src/main/res/layout/messages.xml" value="0.25" />
+        <entry key="..\:/Users/Lorgie/AndroidStudioProjects/E-Palit-master/E-Palit-master/app/src/main/res/layout/post_layout.xml" value="0.24635416666666668" />
+        <entry key="..\:/Users/Lorgie/AndroidStudioProjects/E-Palit-master/E-Palit-master/app/src/main/res/layout/profile_post.xml" value="0.23148148148148148" />
+        <entry key="..\:/Users/Lorgie/AndroidStudioProjects/E-Palit-master/E-Palit-master/app/src/main/res/layout/search_item.xml" value="0.25" />
+        <entry key="..\:/Users/Lorgie/AndroidStudioProjects/E-Palit-master/E-Palit-master/app/src/main/res/layout/viewsearched_item.xml" value="0.35167464114832536" />
+        <entry key="..\:/Users/Lorgie/AndroidStudioProjects/E-Palit-master/E-Palit-master/app/src/main/res/menu/menu.xml" value="0.25" />
+        <entry key="..\:/Users/Lorgie/AndroidStudioProjects/E-Palit/app/src/main/res/drawable/btn_upload_ui.xml" value="0.132" />
+        <entry key="..\:/Users/Lorgie/AndroidStudioProjects/E-Palit/app/src/main/res/drawable/button_ui.xml" value="0.132" />
+        <entry key="..\:/Users/Lorgie/AndroidStudioProjects/E-Palit/app/src/main/res/drawable/rippleeffect.xml" value="0.1" />
+        <entry key="..\:/Users/Lorgie/AndroidStudioProjects/E-Palit/app/src/main/res/drawable/thumb.xml" value="0.1" />
+        <entry key="..\:/Users/Lorgie/AndroidStudioProjects/E-Palit/app/src/main/res/drawable/track.xml" value="0.1" />
+        <entry key="..\:/Users/Lorgie/AndroidStudioProjects/E-Palit/app/src/main/res/layout/activity_forgotpassword.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Lorgie/AndroidStudioProjects/E-Palit/app/src/main/res/layout/activity_loading.xml" value="0.25025641025641027" />
+        <entry key="..\:/Users/Lorgie/AndroidStudioProjects/E-Palit/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/Lorgie/AndroidStudioProjects/E-Palit/app/src/main/res/layout/activity_signup.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Lorgie/AndroidStudioProjects/E-Palit/app/src/main/res/layout/activity_signup_new.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Lorgie/AndroidStudioProjects/E-Palit/app/src/main/res/layout/activity_upload.xml" value="0.2" />
+        <entry key="..\:/Users/Lorgie/AndroidStudioProjects/E-Palit/app/src/main/res/layout/fragment_gadget.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Lorgie/AndroidStudioProjects/E-Palit/app/src/main/res/layout/fragment_home.xml" value="0.264" />
+        <entry key="..\:/Users/Lorgie/AndroidStudioProjects/E-Palit/app/src/main/res/layout/fragment_profile.xml" value="0.4463667820069204" />
+        <entry key="..\:/Users/Lorgie/AndroidStudioProjects/E-Palit/app/src/main/res/layout/fragment_profile_settings.xml" value="0.176" />
+        <entry key="..\:/Users/Lorgie/AndroidStudioProjects/E-Palit/app/src/main/res/layout/rippleeffect.xml" value="0.1" />
+        <entry key="..\:/Users/andrei/Documents/4th yr/16/app/src/main/res/drawable/btn_upload_ui.xml" value="0.2703125" />
+        <entry key="..\:/Users/andrei/Documents/4th yr/16/app/src/main/res/drawable/button_ui.xml" value="0.2703125" />
+        <entry key="..\:/Users/andrei/Documents/4th yr/16/app/src/main/res/layout/activity_home.xml" value="0.4" />
+        <entry key="..\:/Users/andrei/Documents/4th yr/16/app/src/main/res/layout/activity_loading.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/andrei/Documents/4th yr/16/app/src/main/res/layout/activity_main.xml" value="0.4" />
+        <entry key="..\:/Users/andrei/Documents/4th yr/16/app/src/main/res/layout/activity_newpass.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/andrei/Documents/4th yr/16/app/src/main/res/layout/activity_signup_new.xml" value="0.2" />
+        <entry key="..\:/Users/andrei/Documents/4th yr/16/app/src/main/res/layout/activity_upload.xml" value="0.264" />
+        <entry key="..\:/Users/andrei/Documents/4th yr/16/app/src/main/res/layout/category_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/andrei/Documents/4th yr/16/app/src/main/res/layout/fragment_finished.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/andrei/Documents/4th yr/16/app/src/main/res/layout/fragment_home.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/andrei/Documents/4th yr/16/app/src/main/res/layout/fragment_list.xml" value="0.2" />
+        <entry key="..\:/Users/andrei/Documents/4th yr/16/app/src/main/res/layout/fragment_pending.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/andrei/Documents/4th yr/16/app/src/main/res/layout/fragment_profile.xml" value="0.264" />
+        <entry key="..\:/Users/andrei/Documents/4th yr/16/app/src/main/res/layout/fragment_profile_settings.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/andrei/Documents/4th yr/16/app/src/main/res/layout/listing_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/andrei/Documents/4th yr/16/app/src/main/res/layout/messages.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/andrei/Documents/4th yr/16/app/src/main/res/layout/profile_post.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/andrei/Documents/4th yr/16/app/src/main/res/layout/profile_settings.xml" value="0.264" />
+        <entry key="..\:/Users/andrei/Documents/4th yr/16/app/src/main/res/layout/trade_layout.xml" value="0.264" />
+        <entry key="..\:/Users/andrei/Documents/4th yr/19/app/src/main/res/layout/activity_forgotpassword.xml" value="0.264" />
+        <entry key="..\:/Users/andrei/Documents/4th yr/19/app/src/main/res/layout/activity_loading.xml" value="0.12360688956433637" />
+        <entry key="..\:/Users/andrei/Documents/4th yr/19/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/andrei/Documents/4th yr/19/app/src/main/res/layout/activity_otp.xml" value="0.12360688956433637" />
+        <entry key="..\:/Users/andrei/Documents/4th yr/19/app/src/main/res/layout/activity_signup_new.xml" value="0.2596491228070175" />
+        <entry key="..\:/Users/andrei/Documents/4th yr/19/app/src/main/res/layout/fragment_pending.xml" value="0.12360688956433637" />
+        <entry key="..\:/Users/andrei/Documents/4th yr/19/app/src/main/res/layout/fragment_profile_settings.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/andrei/Documents/4th yr/20/app/src/main/res/layout/activity_main.xml" value="0.1111111111111111" />
+        <entry key="..\:/Users/andrei/Documents/4th yr/20/app/src/main/res/layout/activity_upload.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/andrei/Documents/4th yr/22/app/src/main/res/layout/activity_home.xml" value="0.12360688956433637" />
+        <entry key="..\:/Users/andrei/Documents/4th yr/22/app/src/main/res/layout/activity_upload.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/andrei/Documents/4th yr/22/app/src/main/res/layout/category_layout.xml" value="0.16435185185185186" />
+        <entry key="..\:/Users/andrei/Documents/4th yr/22/app/src/main/res/layout/fragment_gadget.xml" value="0.12360688956433637" />
+        <entry key="..\:/Users/andrei/Documents/4th yr/22/app/src/main/res/layout/fragment_home.xml" value="0.4" />
+        <entry key="..\:/Users/andrei/Documents/4th yr/Auth/app/src/main/res/drawable/btn_border.xml" value="0.22777777777777777" />
+        <entry key="..\:/Users/andrei/Documents/4th yr/Auth/app/src/main/res/drawable/post_shape.xml" value="0.2703125" />
+        <entry key="..\:/Users/andrei/Documents/4th yr/Auth/app/src/main/res/layout/activity_home.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/andrei/Documents/4th yr/Auth/app/src/main/res/layout/activity_loading.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/andrei/Documents/4th yr/Auth/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/andrei/Documents/4th yr/Auth/app/src/main/res/layout/activity_otp.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/andrei/Documents/4th yr/Auth/app/src/main/res/layout/activity_signup.xml" value="0.536" />
+        <entry key="..\:/Users/andrei/Documents/4th yr/Auth/app/src/main/res/layout/activity_signup_new.xml" value="0.18796296296296297" />
+        <entry key="..\:/Users/andrei/Documents/4th yr/Auth/app/src/main/res/layout/category_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/andrei/Documents/4th yr/Auth/app/src/main/res/layout/fragment_finished.xml" value="0.2462962962962963" />
+        <entry key="..\:/Users/andrei/Documents/4th yr/Auth/app/src/main/res/layout/fragment_home.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/andrei/Documents/4th yr/Auth/app/src/main/res/layout/fragment_message.xml" value="0.264" />
+        <entry key="..\:/Users/andrei/Documents/4th yr/Auth/app/src/main/res/layout/fragment_profile.xml" value="0.2" />
+        <entry key="..\:/Users/andrei/Documents/4th yr/Auth/app/src/main/res/layout/messages.xml" value="0.264" />
+        <entry key="..\:/Users/andrei/Documents/4th yr/Auth/app/src/main/res/layout/post_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/andrei/Documents/4th yr/Auth/app/src/main/res/layout/profile_post.xml" value="0.2" />
+        <entry key="..\:/Users/andrei/Documents/4th yr/Auth/app/src/main/res/layout/user_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/andrei/Documents/4th yr/Develop/app/src/main/res/layout/activity_main.xml" value="0.22588832487309646" />
+        <entry key="..\:/Users/andrei/Documents/4th yr/Develop/app/src/main/res/layout/activity_signupvincent.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/andrei/Documents/4th yr/Git/app/src/main/res/drawable/tab_catselected.xml" value="0.2703125" />
+        <entry key="..\:/Users/andrei/Documents/4th yr/Git/app/src/main/res/font/inter.xml" value="0.16041666666666668" />
+        <entry key="..\:/Users/andrei/Documents/4th yr/Git/app/src/main/res/layout/activity_enternewpasspare.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/andrei/Documents/4th yr/Git/app/src/main/res/layout/activity_forgotpassword.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/andrei/Documents/4th yr/Git/app/src/main/res/layout/activity_home.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/andrei/Documents/4th yr/Git/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/andrei/Documents/4th yr/Git/app/src/main/res/layout/activity_otp.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/andrei/Documents/4th yr/Git/app/src/main/res/layout/activity_signupvincent.xml" value="0.22588832487309646" />
+        <entry key="..\:/Users/andrei/Documents/4th yr/rebuild/app/src/main/res/layout/activity_main.xml" value="0.4" />
+        <entry key="..\:/Users/andrei/Documents/4th yr/rebuild/app/src/main/res/layout/fragment_profile.xml" value="0.1287037037037037" />
+        <entry key="..\:/Users/andrei/Documents/Capstone/Developing/Barter10/app/src/main/res/drawable/et_corner.xml" value="1.4142857142857144" />
+        <entry key="..\:/Users/andrei/Documents/Capstone/Developing/Barter10/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.2703125" />
+        <entry key="..\:/Users/andrei/Documents/Capstone/Developing/Barter10/app/src/main/res/drawable/ic_baseline_remove_red_eye_24.xml" value="0.2703125" />
+        <entry key="..\:/Users/andrei/Documents/Capstone/Developing/Barter10/app/src/main/res/drawable/ic_baseline_visibility_24.xml" value="0.2703125" />
+        <entry key="..\:/Users/andrei/Documents/Capstone/Developing/Barter10/app/src/main/res/drawable/ic_baseline_visibility_off_24.xml" value="0.2703125" />
+        <entry key="..\:/Users/andrei/Documents/Capstone/Developing/Barter10/app/src/main/res/drawable/ic_search_black_24dp.xml" value="0.2703125" />
+        <entry key="..\:/Users/andrei/Documents/Capstone/Developing/Barter10/app/src/main/res/drawable/img_checkbox.xml" value="0.2703125" />
+        <entry key="..\:/Users/andrei/Documents/Capstone/Developing/Barter10/app/src/main/res/drawable/login_button.xml" value="0.1638888888888889" />
+        <entry key="..\:/Users/andrei/Documents/Capstone/Developing/Barter10/app/src/main/res/drawable/tab_catselecting.xml" value="0.2601851851851852" />
+        <entry key="..\:/Users/andrei/Documents/Capstone/Developing/Barter10/app/src/main/res/drawable/tab_listselecting.xml" value="0.2703125" />
+        <entry key="..\:/Users/andrei/Documents/Capstone/Developing/Barter10/app/src/main/res/drawable/tab_rect.xml" value="0.2611111111111111" />
+        <entry key="..\:/Users/andrei/Documents/Capstone/Developing/Barter10/app/src/main/res/drawable/tab_select.xml" value="0.2611111111111111" />
+        <entry key="..\:/Users/andrei/Documents/Capstone/Developing/Barter10/app/src/main/res/drawable/tab_selected.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/andrei/Documents/Capstone/Developing/Barter10/app/src/main/res/drawable/tab_selecting.xml" value="0.2611111111111111" />
+        <entry key="..\:/Users/andrei/Documents/Capstone/Developing/Barter10/app/src/main/res/drawable/tab_text_selecting.xml" value="0.2611111111111111" />
+        <entry key="..\:/Users/andrei/Documents/Capstone/Developing/Barter10/app/src/main/res/layout/activity_home.xml" value="0.22588832487309646" />
+        <entry key="..\:/Users/andrei/Documents/Capstone/Developing/Barter10/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/andrei/Documents/Capstone/Developing/Barter10/app/src/main/res/layout/category_layout.xml" value="0.22588832487309646" />
+        <entry key="..\:/Users/andrei/Documents/Capstone/Developing/Barter10/app/src/main/res/layout/fragment_fashion.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/andrei/Documents/Capstone/Developing/Barter10/app/src/main/res/layout/fragment_finished.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/andrei/Documents/Capstone/Developing/Barter10/app/src/main/res/layout/fragment_gadget.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/andrei/Documents/Capstone/Developing/Barter10/app/src/main/res/layout/fragment_home.xml" value="0.264" />
+        <entry key="..\:/Users/andrei/Documents/Capstone/Developing/Barter10/app/src/main/res/layout/fragment_list.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/andrei/Documents/Capstone/Developing/Barter10/app/src/main/res/layout/fragment_message.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/andrei/Documents/Capstone/Developing/Barter10/app/src/main/res/layout/fragment_pending.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/andrei/Documents/Capstone/Developing/Barter10/app/src/main/res/layout/fragment_profile.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/andrei/Documents/Capstone/Developing/Barter10/app/src/main/res/layout/fragment_search.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/andrei/Documents/Capstone/Developing/Barter10/app/src/main/res/layout/fragment_sports.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/andrei/Documents/Capstone/Developing/Barter10/app/src/main/res/layout/fragment_toy.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/andrei/Documents/Capstone/Developing/Barter10/app/src/main/res/layout/listing_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/andrei/Documents/Capstone/Developing/Barter10/app/src/main/res/layout/login_page.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/andrei/Documents/Capstone/Developing/Barter10/app/src/main/res/layout/post_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/andrei/Documents/Capstone/Developing/Barter10/app/src/main/res/layout/toolbar.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/andrei/Documents/Capstone/Developing/Barter10/app/src/main/res/layout/user_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/andrei/Documents/Capstone/Developing/Barter10/app/src/main/res/menu/menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/irish/OneDrive/Desktop/E-Palit/app/src/main/res/layout/activity_enternewpasspare.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/irish/OneDrive/Desktop/E-Palit/app/src/main/res/layout/activity_signupvincent.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/irish/OneDrive/Desktop/wow/app/src/main/res/layout/activity_forgotpassword.xml" value="0.25" />
+        <entry key="..\:/Users/irish/OneDrive/Desktop/wow/app/src/main/res/layout/activity_home.xml" value="0.15" />
+        <entry key="..\:/Users/irish/OneDrive/Desktop/wow/app/src/main/res/layout/activity_loading.xml" value="0.1" />
+        <entry key="..\:/Users/irish/OneDrive/Desktop/wow/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/irish/OneDrive/Desktop/wow/app/src/main/res/layout/activity_newpass.xml" value="0.1" />
+        <entry key="..\:/Users/irish/OneDrive/Desktop/wow/app/src/main/res/layout/activity_otp.xml" value="0.1" />
+        <entry key="..\:/Users/irish/OneDrive/Desktop/wow/app/src/main/res/layout/activity_signup_new.xml" value="0.1" />
+        <entry key="..\:/Users/irish/OneDrive/Desktop/wow/app/src/main/res/layout/activity_upload.xml" value="0.1762917933130699" />
+        <entry key="..\:/Users/irish/OneDrive/Desktop/wow/app/src/main/res/layout/category_layout.xml" value="0.3625" />
+        <entry key="..\:/Users/irish/OneDrive/Desktop/wow/app/src/main/res/layout/fragment_fashion.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/irish/OneDrive/Desktop/wow/app/src/main/res/layout/fragment_finished.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/irish/OneDrive/Desktop/wow/app/src/main/res/layout/fragment_gadget.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/irish/OneDrive/Desktop/wow/app/src/main/res/layout/fragment_list.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/irish/OneDrive/Desktop/wow/app/src/main/res/layout/fragment_message.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/irish/OneDrive/Desktop/wow/app/src/main/res/layout/fragment_pending.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/irish/OneDrive/Desktop/wow/app/src/main/res/layout/fragment_profile.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/irish/OneDrive/Desktop/wow/app/src/main/res/layout/fragment_profile_settings.xml" value="0.3625" />
+        <entry key="..\:/Users/irish/OneDrive/Desktop/wow/app/src/main/res/layout/fragment_sports.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/irish/OneDrive/Desktop/wow/app/src/main/res/layout/user_layout.xml" value="0.3401268115942029" />
+        <entry key="..\:/Users/lacam/AndroidStudioProjects/E-Palit/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3305" />
+        <entry key="..\:/Users/lacam/AndroidStudioProjects/E-Palit/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3305" />
+        <entry key="..\:/Users/lacam/AndroidStudioProjects/E-Palit/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.3305" />
+        <entry key="..\:/Users/lacam/AndroidStudioProjects/E-Palit/app/src/main/res/layout/activity_otp.xml" value="0.358695652173913" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.2" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
